@@ -1,4 +1,4 @@
-# Employee Attendance System
+# StaffSync
 
 Python + PyQt5 + SQLite tabanlı çalışan yoklama ve maaş takip sistemi.
 
